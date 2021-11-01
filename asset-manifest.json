@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw2-events-state-filter/static/css/main.95610dee.chunk.css",
+    "main.js": "/ra-hw2-events-state-filter/static/js/main.834e3116.chunk.js",
+    "main.js.map": "/ra-hw2-events-state-filter/static/js/main.834e3116.chunk.js.map",
+    "runtime-main.js": "/ra-hw2-events-state-filter/static/js/runtime-main.ead012fa.js",
+    "runtime-main.js.map": "/ra-hw2-events-state-filter/static/js/runtime-main.ead012fa.js.map",
+    "static/js/2.23c27bd8.chunk.js": "/ra-hw2-events-state-filter/static/js/2.23c27bd8.chunk.js",
+    "static/js/2.23c27bd8.chunk.js.map": "/ra-hw2-events-state-filter/static/js/2.23c27bd8.chunk.js.map",
+    "index.html": "/ra-hw2-events-state-filter/index.html",
+    "static/css/main.95610dee.chunk.css.map": "/ra-hw2-events-state-filter/static/css/main.95610dee.chunk.css.map",
+    "static/js/2.23c27bd8.chunk.js.LICENSE.txt": "/ra-hw2-events-state-filter/static/js/2.23c27bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead012fa.js",
+    "static/js/2.23c27bd8.chunk.js",
+    "static/css/main.95610dee.chunk.css",
+    "static/js/main.834e3116.chunk.js"
+  ]
+}
